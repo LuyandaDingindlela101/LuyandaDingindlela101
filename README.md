@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @LuyandaDingindlela101
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning html, css, javascript and python.
-- 💞️ I’m looking to collaborate on any project at all, we dev related or not.
+- 💞️ I’m looking to collaborate on any project at all, web dev related or not.
 - 📫 How to reach me ...
 
 <!---
